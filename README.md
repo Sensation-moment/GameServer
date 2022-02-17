@@ -4,7 +4,7 @@
   - JDK 11
   - Maven 3.8.2
   - SpringBoot 2
-  - MyBatisPlus
+  - MyBatisPlus 
   - MySQL 5.7
   
 - 实现的功能
